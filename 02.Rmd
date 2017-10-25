@@ -1,25 +1,23 @@
-# My second cool idea {#slug-two}
+# Papermill Chemical Tracking {#smart chemicals}
 
 #### Keywords
 
-yaba, daba, do
+paper mill, machine learning, chemical usage reduction
 
-## A beginning.
+## Why do we need chemicals
 
-Nulla  sint  art party ex, mlkshk disrupt selvage 90's.  Umami sed slow-carb, fugiat  dolore nihil glossier magna migas actually farm-to-table microdosing keytar fixie.  IPhone fashion axe pinterest, cardigan street art quinoa banh mi bitters mollit  commodo pok pok culpa  delectus ut air plant.  Offal edison bulb ex, celiac 8-bit vaporware polaroid thundercats flannel kickstarter labore.  Activated charcoal portland af tousled microdosing woke, in  thundercats consectetur gluten-free hammock duis  next level DIY.  Keffiyeh commodo velit  mollit  brunch, cronut edison bulb banh mi swag stumptown crucifix hell of.  Brunch williamsburg try-hard, seitan literally vexillologist venmo DIY pariatur nesciunt master cleanse XOXO.
+When the general public thinks of the composition paper, most people can come up with that is it made from trees, or it is recycled from other paper. What is often not thought of is sheer number of chemicals that also go into making paper to create different paper properties. There are thousands of grades of paper, with different properties that are important to all of them. Some of those properties include strength, tear, porosity, and color. The correct cocktail of chemicals can greatly influence the outcomes of these properties. However, chemicals are very expensive, and can cost a mill hundreds of thousands of dollars a week. That is where my tool would come in.  
 
-## A middle.
+## How can we control them
 
-8-bit synth irony nisi wolf, street art dreamcatcher flannel placeat selvage health goth sriracha.  Glossier labore ex venmo, cillum  live-edge jianbing everyday carry af cray laborum incididunt eiusmod jean shorts.  Normcore slow-carb lyft letterpress, beard tilde art party.  Poke marfa incididunt tempor duis.  Iceland fam ex beard, activated charcoal vaporware nesciunt lyft cronut four dollar toast irony.  Officia  stumptown voluptate  unicorn culpa  bushwick.  Mollit  vero af marfa deserunt  flexitarian.
+Using advance machine learning techniques, my tool will look at history to create models of the perfect formulation of chemicals needed to meet test properties. My tool will save the customer in two ways: 
 
+1. The tool will ensure that enough chemicals are used so that all the paper produced meets test and rejects are reduced. 
+2. The tool will ensure that not too many chemicals are being used and wasted. 
 
-```{r experimental,echo=F,results='asis',eval=F}
-data.table::fread('https://raw.githubusercontent.com/UCB-MIDS/experiments-causality/master/data/GerberGreenBook_Chapter3_Donations.csv?token=ABNmuX-Q14rzQ4teItDenc9L5Wo2flncks5ZL5qEwA%3D%3D') %>% stargazer::stargazer(type = 'html',title = 'Something from W241 Experiments and Causality')
-```
+At initialization, my tool will require some time to set up, as extensive history must be looked at to create the model. Industry research and knowledge can also be used to make assumptions and build in more knowledge. However, the power of this tool is using machine learning to adjust its predictions based upon feedback and changing machine conditions. 
 
+## What are obstacles to optimization
 
-Laborum williamsburg sunt whatever, DIY reprehenderit  retro vaporware id  hella flannel sartorial vero fugiat  before they sold out.  Copper mug salvia keffiyeh, neutra nostrud iceland keytar kogi church-key quinoa ramps mlkshk.  Seitan mollit  3 wolf moon, forage shabby chic cillum  church-key tofu exercitation aliquip.  Church-key distillery flexitarian meh incididunt retro, ugh wolf selvage hashtag.  Bicycle rights 90's officia  vape.  Listicle post-ironic vape ex.  Gluten-free lomo tumeric, yuccie everyday carry tempor put a bird on it knausgaard nisi ugh skateboard VHS.
+Papermaking is very complicated. There are many factors that can go into producing the final test values of the paper: pulp consistency, temperature, how much fiber is in the sheet, how much moisture ends up in the sheet, and also everything that happens before the fibers get to the machine (the pulping process that takes wood chips and turns them into fibers that can be used to construct paper). In addition to identifying and adding all of these variables to the model, there could be instrumentation issues. Paper mills are old, and often not all pipes have flowmeters or other sensors. In order for this product to be successful, the customer will have to be extremely involved in the set up and implementation so that mill knowledge can be properly leveraged. 
 
-## An end.
-
-Kombucha pok pok lomo, forage bicycle rights paleo kickstarter literally.  Hot chicken dolor  vegan accusamus master cleanse tousled, yuccie cliche retro aesthetic bushwick actually.  Ennui viral VHS pitchfork pop-up cornhole, nihil quinoa scenester gentrify occaecat  YOLO anim.  Umami copper mug live-edge, air plant meditation bushwick chartreuse adipisicing tousled.  Art party affogato chicharrones, photo booth enim swag vero meh seitan +1 activated charcoal nihil.  Etsy gluten-free authentic mixtape.  Shabby chic duis  90's pop-up pinterest, lumbersexual mollit  cillum.

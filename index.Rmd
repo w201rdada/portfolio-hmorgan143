@@ -3,9 +3,10 @@ title: "W201 Portfolio"
 author: "Hannah Morgan"
 date: "MIDS Fall 2017"
 site: bookdown::bookdown_site
+documentclass: book
 bibliography: references.bib
 link-citations: true
-documentclass: book
+
 ---
 
 <!-- This won't be displayed but it will initialize your R session. Add any R libraries you need here. -->
@@ -40,7 +41,7 @@ A subsidiary of SmartMill, SmartChem focuses on impacting chemical usage. It uti
 
 Hannah Morgan graduated from the University of Washington in 2015 with a Bachelors degree in Bioresource Science and Engineering and a Bachelor's degree in Chemical Engineering. She currently works for Capstone Technology, a small software firm based in Vancouver, WA, that builds data visualization software for industrial facilities. When not working she loves to hike around the PNW with her dog, Kei. 
 <!-- You can include images saved within your repo... -->
-```{r hello-world,echo=FALSE,fig.cap='Kei',fig.align='center',out.width='50%'}
+```{r kei,echo=FALSE,fig.cap='Kei',fig.align='center',out.width='50%'}
 knitr::include_graphics('img/kei.jpg')
 ```
 *Updated: `r Sys.Date()`*

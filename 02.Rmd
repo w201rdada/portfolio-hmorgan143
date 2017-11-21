@@ -10,7 +10,7 @@ When the general public thinks of the composition paper, most people can come up
 
 ## How can we control them
 
-Using advance machine learning techniques, SmartChem will look at history to create models of the perfect formulation of chemicals needed to meet test properties. It will use chemical flow data, as well as other process data (consistency, temperature, pressure, etc). My tool will save the customer in two ways: 
+Using advance machine learning techniques, SmartChem, a subsidiary of SmartMill, will look at history to create models of the perfect formulation of chemicals needed to meet test properties. It will use chemical flow data, as well as other process data (consistency, temperature, pressure, etc). My tool will save the customer in two ways: 
 
 1. The tool will ensure that enough chemicals are used so that the paper produced meets test requirements and rejects are reduced. 
 2. The tool will ensure that not too many chemicals are being used and wasted. 

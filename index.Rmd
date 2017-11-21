@@ -1,7 +1,7 @@
 ---
 title: "W201 Portfolio"
-author: "Oski Bear"
-date: "MIDS Summer 2017"
+author: "Hannah Morgan"
+date: "MIDS Fall 2017"
 site: bookdown::bookdown_site
 documentclass: book
 ---
@@ -9,38 +9,37 @@ documentclass: book
 <!-- This won't be displayed but it will initialize your R session. Add any R libraries you need here. -->
 ```{r init,include=FALSE,echo=FALSE}
 library(magrittr)
+bibliography: bibliography.bib
+link-citations: true
 ```
 
 
 # Welcome!
 
 <!-- You can include images saved within your repo... -->
-```{r hello-world,echo=FALSE,fig.cap='Hello World!',fig.align='center',out.width='50%'}
-knitr::include_graphics('img/hello-world.png')
+```{r hello-world,echo=FALSE,fig.cap='Paper mill in Charleston, SC',fig.align='center',out.width='50%'}
+knitr::include_graphics('img/charleston.jpg')
 ```
 
-Pariatur sapiente anim  waistcoat bicycle rights.  Cupidatat  chambray portland direct trade, XOXO odio gochujang banjo deep v sustainable.  Sint  jianbing DIY humblebrag heirloom exercitation ennui fanny pack.  Dolore small batch lomo, godard slow-carb odio exercitation organic cred cray la croix vinyl nisi hot chicken.  Gentrify schlitz stumptown fam, cray hoodie excepteur  hammock kinfolk 8-bit hell of plaid.  Helvetica hashtag pinterest typewriter, tbh vape vero farm-to-table.  Laboris  bitters aliqua small batch.
+What is the first thing you think of when you think Data Science? Based upon a very skewed survey of friends and family, most people think of Google, Facebook, computers, and technology. But ultimately, the data part of Data Science can be anything - and if it can be anything, why not manufacturing data? Most manufacturing facilities already collect mountains of data on their product and process. Their data just needs to be married to the tools of Data Science. In my ideas, I will outline some paths this union might take, focusing on the pulp and paper industry. 
 
 <!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
-<p>
-```{r hello-benji,echo=FALSE,fig.cap='Hello Benjamin Franklin!',fig.align='center'}
-knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
-```
 
-### Abstract of my first cool idea
 
-Pop-up occupy labore, pug tofu nisi franzen YOLO tilde tumblr deep v nulla  aliqua.  Sapiente stumptown et lo-fi art party.  Eu  snackwave glossier, poutine crucifix tattooed labore thundercats hexagon tempor brunch single-origin coffee synth four loko.  Velit  beard ex etsy migas, tempor hashtag.  Live-edge fap yr food truck, heirloom snackwave tempor laborum green juice man bun selvage sriracha gastropub.  Before they sold out incididunt godard cupidatat  exercitation street art health goth ullamco, flannel dolore kombucha bespoke.  Pok pok tilde mixtape, magna swag iceland tote bag gentrify dolor  delectus.
+### SmartMill
 
-### Abstract of my second cool idea
+Leverage all of the tools and technology of data science to make your mill work smarter, harder, and better. SmartMill, a suite of tools and modules, will work to maximize mill earning potential without capital investment.
 
-Vero dolor  franzen letterpress.  Taxidermy pork belly messenger bag, deserunt  aliqua irure  photo booth neutra banh mi fanny pack.  Butcher fam heirloom marfa.  Tilde reprehenderit  snackwave tempor.  Qui  pop-up kitsch dolor.  Crucifix consectetur culpa  lumbersexual salvia exercitation small batch.  Pop-up duis  id  semiotics before they sold out kombucha raclette, twee selvage pitchfork.
+### SmartChem
+
+A subsidiary of SmartMill, SmartChem focuses on impacting chemical usage. It utilizes machine learning to know how much of various chemicals are needed to meet quality requirements, while also preventing over use of chemicals and needless spending. 
   
-### Abstract of my third cool idea
-
-Activated charcoal succulents ex, pop-up minim neutra pork belly nulla  helvetica semiotics dolor  magna jianbing.  Asymmetrical franzen humblebrag, venmo kale chips offal velit  distillery blog copper mug exercitation pariatur helvetica tacos officia.  Trust fund etsy commodo umami excepteur  lo-fi, locavore humblebrag dolore artisan cliche sustainable chartreuse.  Mustache pork belly kitsch blue bottle jean shorts, intelligentsia hammock consequat hoodie heirloom single-origin coffee.  Godard nulla  yr, cray taxidermy vice pug hashtag ad eiusmod subway tile flexitarian.  Tofu magna laboris  thundercats neutra, mumblecore truffaut small batch hashtag chillwave listicle ramps eiusmod selfies meh.  Bushwick butcher cupidatat  hella organic.
 
 ## About the author
 
-Sustainable aute  gochujang, messenger bag vero dolor  blog pork belly knausgaard.  Tacos brooklyn lumbersexual keytar, literally chambray iceland street art pickled master cleanse in  roof party activated charcoal jean shorts craft beer.  Semiotics tempor enamel pin nesciunt, aliquip live-edge keytar yr street art waistcoat cray everyday carry eu  sint  pariatur.  Aliquip anim  godard leggings, flexitarian direct trade  humblebrag.  Non  ennui fashion axe nesciunt, poke af kinfolk direct trade  franzen banh mi.  Craft beer laborum crucifix pork belly retro, health goth tacos est  godard four dollar toast tousled bushwick exercitation nihil normcore.  Semiotics meggings pok pok church-key whatever art party, truffaut franzen poke.
-
+Hannah Morgan graduated from the University of Washington in 2015 with a Bachelors degree in Bioresource Science and Engineering and a Bachelor's degree in Chemical Engineering. She currently works for Capstone Technology, a small software firm based in Vancouver, WA, that builds data visualization software for industrial facilities. When not working she loves to hike around the PNW with her dog, Kei. 
+<!-- You can include images saved within your repo... -->
+```{r hello-world,echo=FALSE,fig.cap='Kei',fig.align='center',out.width='50%'}
+knitr::include_graphics('img/kei.jpg')
+```
 *Updated: `r Sys.Date()`*

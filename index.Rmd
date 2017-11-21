@@ -3,7 +3,7 @@ title: "W201 Portfolio"
 author: "Hannah Morgan"
 date: "MIDS Fall 2017"
 site: bookdown::bookdown_site
-bibliography: bibliography.bib
+bibliography: references.bib
 link-citations: true
 documentclass: book
 ---

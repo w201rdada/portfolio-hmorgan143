@@ -16,7 +16,7 @@ library(magrittr)
 ```
 
 
-# Welcome!
+# Welcome! {-}
 
 
 
@@ -34,16 +34,16 @@ What is the first thing you think of when you think Data Science? Based upon a v
 knitr::include_url('https://drive.google.com/file/d/1HbJbKsIzKBfjx4GvgfM0J6yvs7bEoSIM/preview')
 
 
-### SmartMill
+### SmartMill {-}
 
 Leverage all of the tools and technology of data science to make your mill work smarter, harder, and better. SmartMill, a suite of tools and modules, will work to maximize mill earning potential without capital investment.
 
-### SmartChem
+### SmartChem {-}
 
 A subsidiary of SmartMill, SmartChem focuses on impacting chemical usage. It utilizes machine learning to know how much of various chemicals are needed to meet quality requirements, while also preventing over use of chemicals and needless spending. 
   
 
-## About the author
+## About the author {-}
 
 Hannah Morgan graduated from the University of Washington in 2015 with a Bachelors degree in Bioresource Science and Engineering and a Bachelor's degree in Chemical Engineering. She currently works for Capstone Technology, a small software firm based in Vancouver, WA, that builds data visualization software for industrial facilities. When not working she loves to hike around the PNW with her dog, Kei. 
 <!-- You can include images saved within your repo... -->

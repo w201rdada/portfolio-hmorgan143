@@ -18,6 +18,8 @@ library(magrittr)
 
 # Welcome!
 
+
+
 <!-- You can include images saved within your repo... -->
 ```{r charleston,echo=FALSE,fig.cap='Paper mill in Charleston, SC',fig.align='center',out.width='50%'}
 knitr::include_graphics('img/charleston.jpg')
@@ -25,7 +27,11 @@ knitr::include_graphics('img/charleston.jpg')
 
 What is the first thing you think of when you think Data Science? Based upon a very skewed survey of friends and family, most people think of Google, Facebook, computers, and technology. But ultimately, the data part of Data Science can be anything - and if it can be anything, why not manufacturing data? Most manufacturing facilities already collect mountains of data on their product and process. Their data just needs to be married to the tools of Data Science. In my ideas, I will outline some paths this union might take, focusing on the pulp and paper industry. 
 
-<!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
+<!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video.
+-->
+<p>
+```{r hello-datasci,echo=FALSE,fig.cap='Hello DataScience W201.6!',fig.align='center'}
+knitr::include_url('https://drive.google.com/file/d/1HbJbKsIzKBfjx4GvgfM0J6yvs7bEoSIM/preview')
 
 
 ### SmartMill

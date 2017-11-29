@@ -32,7 +32,7 @@ What is the first thing you think of when you think Data Science? Based upon a v
 <p>
 ```{r hello-datasci,echo=FALSE,fig.cap='Hello DataScience W201.6!',fig.align='center'}
 knitr::include_url('https://drive.google.com/file/d/1HbJbKsIzKBfjx4GvgfM0J6yvs7bEoSIM/preview')
-
+```
 
 ### SmartMill {-}
 
